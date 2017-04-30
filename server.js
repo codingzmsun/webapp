@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 var init = require('./config/init')(),
-	mongoose = require('mongoose'),
 	config = require('./config/config'),
+	mongoose = require('mongoose'),
 	chalk = require('chalk');
 
 /**
